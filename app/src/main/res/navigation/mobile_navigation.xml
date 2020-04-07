@@ -13,7 +13,7 @@
 
     <fragment
         android:id="@+id/navigation_Community"
-        android:name="com.example.habitapp.ui.home.HomeFragment"
+        android:name="com.example.habitapp.ui.Community.CommunityFragment"
         android:label="@string/title_community" />
 
 </navigation>
